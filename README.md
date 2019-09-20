@@ -68,7 +68,7 @@ The list of actions will likely grow as we get feedback from you.
 ### Running script (Recommended)
 
 ```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/tuist/tuist/master/install/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://install.tuist.io)"
 ```
 
 ## Bootstrap your first project 🌀
